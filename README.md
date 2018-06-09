@@ -5,7 +5,7 @@ This project contains [Geb](https://gebish.org) tests for the Garage
  
 ## Checkout The Garage Application Source Code
 
-    git checkout https://github.com/grails-guides/building-a-react-app.git
+    git clone https://github.com/grails-guides/building-a-react-app.git
     
 If you do not have `git` installed you may instead download the latest
 code from [https://github.com/grails-guides/building-a-react-app/archive/master.zip](https://github.com/grails-guides/building-a-react-app/archive/master.zip).
