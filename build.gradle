@@ -44,4 +44,5 @@ tasks.withType(Test) {
         events "passed", "skipped", "failed"
         exceptionFormat 'full'
     }
+    outputs.upToDateWhen { false }
 }
